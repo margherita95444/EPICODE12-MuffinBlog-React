@@ -1,0 +1,83 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+body{
+  background-color: rgb(126, 14, 55);
+  
+}
+
+.nav-link, .navbar-brand, body, .btnMuffin{
+  color: white !important;
+  font-size: 1.7rem ;
+}
+
+nav, .footer, .btn{
+  background-color: rgb(182, 27, 83);
+  color: white
+}
+
+.imgMuffin{
+  width: 500px;
+  height:500px;
+  margin-top: 50px;
+}
+
+.imgfooterbicm{
+  width: 70px;
+}
+
+.imgfootercb{
+  width: 100px;
+}
+
+img{
+  width: 90px;
+}
+
+.btnMuffin{
+  font-size: 100px;
+}
+
+.back{
+  position: relative;
+  top: 110px;
+}
+
+.backdot{
+  position: relative;
+  top: 30px;
+  font-size: 50px;
+}
+
+.imgDetail{
+  width: 550px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.postDetail{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  margin-bottom: 30px;
+}
+
+p{
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.7rem ;
+}
+
+.notFound{
+  font-size: 3em;
+  text-align: center;
+  margin-top:160px;
+  margin-bottom: 230px;
+}
+
+.pageContent{
+  margin-bottom: 75px;
+}
+
